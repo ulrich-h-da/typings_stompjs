@@ -9,7 +9,7 @@
  * https://github.com/jmesnil/stomp-websocket
  *
  */
-declare module "stompjs" {
+declare module stompjs {
 
 	export interface Client {
 		heartbeat: any;
