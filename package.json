@@ -1,19 +1,78 @@
 {
-  "name": "typings_stompjs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "stompjs.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "typings_stompjs@git+https://github.com/ulrich-h-da/typings_stompjs.git",
+        "scope": null,
+        "escapedName": "typings_stompjs",
+        "name": "typings_stompjs",
+        "rawSpec": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+        "spec": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:ulrich-h-da/typings_stompjs.git",
+          "sshUrl": "git+ssh://git@github.com/ulrich-h-da/typings_stompjs.git",
+          "httpsUrl": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+          "gitUrl": "git://github.com/ulrich-h-da/typings_stompjs.git",
+          "shortcut": "github:ulrich-h-da/typings_stompjs",
+          "directUrl": "https://raw.githubusercontent.com/ulrich-h-da/typings_stompjs/master/package.json"
+        }
+      },
+      "D:\\Sources\\prodok40-frontend21"
+    ]
+  ],
+  "_from": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+  "_id": "typings_stompjs@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/typings_stompjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "typings_stompjs@git+https://github.com/ulrich-h-da/typings_stompjs.git",
+    "scope": null,
+    "escapedName": "typings_stompjs",
+    "name": "typings_stompjs",
+    "rawSpec": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+    "spec": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:ulrich-h-da/typings_stompjs.git",
+      "sshUrl": "git+ssh://git@github.com/ulrich-h-da/typings_stompjs.git",
+      "httpsUrl": "git+https://github.com/ulrich-h-da/typings_stompjs.git",
+      "gitUrl": "git://github.com/ulrich-h-da/typings_stompjs.git",
+      "shortcut": "github:ulrich-h-da/typings_stompjs",
+      "directUrl": "https://raw.githubusercontent.com/ulrich-h-da/typings_stompjs/master/package.json"
+    }
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ulrich-h-da/typings_stompjs.git#19fe7debfc5ee73a1ef6bb3253618d3dc3922159",
+  "_shasum": "0488544c741a461179148f8ef3af8588c3aca13a",
+  "_shrinkwrap": null,
+  "_spec": "typings_stompjs@git+https://github.com/ulrich-h-da/typings_stompjs.git",
+  "_where": "D:\\Sources\\prodok40-frontend21",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ulrich-h-da/typings_stompjs/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "gitHead": "19fe7debfc5ee73a1ef6bb3253618d3dc3922159",
+  "homepage": "https://github.com/ulrich-h-da/typings_stompjs#readme",
+  "license": "ISC",
+  "main": "stompjs.d.ts",
+  "name": "typings_stompjs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ulrich-h-da/typings_stompjs.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ulrich-h-da/typings_stompjs/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/ulrich-h-da/typings_stompjs#readme"
+  "version": "1.0.0"
 }

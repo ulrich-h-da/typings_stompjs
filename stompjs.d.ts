@@ -58,3 +58,4 @@ declare module stompjs {
 
 	export var Stomp:any;
 }
+export = stompjs;
